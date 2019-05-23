@@ -1,0 +1,13 @@
+# Eclipse project files
+/.cproject
+/.project
+/.settings/
+
+# Builds
+/build/
+/Debug/
+/Release/
+
+# Autoconf
+/configure
+/autom4te.cache/
