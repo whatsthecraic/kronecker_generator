@@ -34,6 +34,7 @@ LDFLAGS := ${LIBS}
 # List of the sources to compile
 
 sources := \
+	csr_representation.cpp \
 	kronecker_generator.cpp \
 	third-party/graph500_generator/graph_generator.c \
 	third-party/graph500_generator/splittable_mrg.c \
